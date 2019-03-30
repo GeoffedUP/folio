@@ -10,7 +10,7 @@ title: Geoff's Portfolio
 email: itsmrgef@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a github-pages website that only has a small amount of my recent graphic design, handiwork, & links
-baseurl: "0xbitcoin.foundation" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "/folio" # the base hostname & protocol for your site
 twitter_username: Ge0ffedUP
 github_username:  GeoffedUP
