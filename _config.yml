@@ -1,0 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Geoff's Portfolio
+email: itsmrgef@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is a github-pages website that only has a small amount of my recent graphic design, handiwork, & links
+baseurl: "folio" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site
+twitter_username: Ge0ffedUP
+github_username:  GeoffedUP
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "photography"
+    values:
+      permalink: /:path/:basename:output_ext
+
+exclude: [LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json]
