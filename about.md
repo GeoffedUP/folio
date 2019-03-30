@@ -8,4 +8,4 @@ title: About
 ### *Geoff*
 
 *E-Mail*:​ itsmrgef@gmail.com<br>
-*Address*:​ Corvallis, OR
+*Location*:​ Oregon
